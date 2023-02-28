@@ -9,6 +9,7 @@ body {
   position: relative;
   display: flex;
   max-height: 300px;
+  max-width: 360px;
   margin-top: auto;
   margin-left: auto;
   margin-right: auto;
@@ -122,6 +123,7 @@ body {
  /* Remember me */
 
  .rememberme {
+  position: relative;
   color: darkgray;
   margin-top: 20px;
  }
