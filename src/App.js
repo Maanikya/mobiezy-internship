@@ -12,12 +12,12 @@ function App() {
         <form className='login'>
           <div class="username-group">
             <input required="true" type="text" autocomplete="off" className='username' />
-            <label class="user-label">User Name</label>
+            <label className="user-label">User Name</label>
           </div>
 
           <div class="passwd-group">
             <input required="true" type="password" autocomplete="off" className='passwd' />
-            <label class="passwd-label">Password</label>
+            <label className="passwd-label">Password</label>
           </div>
 
           <label class="rememberme">
